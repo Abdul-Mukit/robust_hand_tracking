@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+*.log
+*.jpg
+*.bk
+*.o
+*.so
+backup/
+
+*.json
+*.txt
+*.png
+.ipynb_checkpoints/
+*.weights
+darknet19_448.conv.23

@@ -1,0 +1,5 @@
+train  = /home/mukit/PycharmProjects/p27/pytorch-yolo2/NDDS_2_YOLO/train.txt
+valid  = /home/mukit/PycharmProjects/p27/pytorch-yolo2/NDDS_2_YOLO/test.txt
+names = data/cautery.names
+backup = backup/cautery_simple
+gpus  = 0,1

@@ -1,0 +1,5 @@
+train  = /media/drive1/Datasets/egohands_gloved/train.txt
+valid  = /media/drive1/Datasets/egohands_gloved/test.txt
+names = data/hands.names
+backup = backup/hands_gloved_esh
+gpus  = 0,1
