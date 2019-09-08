@@ -13,4 +13,4 @@ backup/
 .ipynb_checkpoints/
 *.weights
 darknet19_448.conv.23
-NDDS_2_YOLO
+NDDS_2_YOLO/
