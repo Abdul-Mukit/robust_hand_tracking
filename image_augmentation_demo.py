@@ -82,7 +82,7 @@ exposure = 1.5
 # exposure = 0
 shape = [320, 320]
 
-imgpath = '/media/drive1/Datasets/egohands/images/CARDS_LIVINGROOM_B_T_frame_2591.jpg'
+imgpath = 'docs/egohandstrain.jpg'
 img = Image.open(imgpath).convert('RGB')
 if random.randint(0, 1):
     r, g, b = img.split()

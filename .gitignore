@@ -14,3 +14,6 @@ backup/
 *.weights
 darknet19_448.conv.23
 NDDS_2_YOLO/
+
+!docs/*.jpg
+!docs/*.png
