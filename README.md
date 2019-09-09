@@ -65,10 +65,9 @@ image is the original image. The rest are augmentations. Due to this
 augmentation, the dataset becomes very randomized which in turn helps
 achieve well generalized network weights.
 
-<img src="docs/egohandstrain.jpg" height="200">
-<img src="docs/hands_aug_1.png" height="200">
-<img src="docs/hands_aug_2.png" height="200">
-<img src="docs/hands_aug_3.png" height="200"><br/>
+<img src="docs/egohandstrain.jpg" height="150"><img
+src="docs/hands_aug_1.png" height="150"> <img src="docs/hands_aug_2.png"
+height="150"> <img src="docs/hands_aug_3.png" height="150"><br/>
 
 
 
